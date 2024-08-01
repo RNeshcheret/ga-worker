@@ -1,0 +1,8 @@
+{
+  "name": "ga-worker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:RNeshcheret/ga-worker.git",
+  "author": "Ruslan Neshcheret <tsruslan17@gmail.com>",
+  "license": "MIT"
+}
